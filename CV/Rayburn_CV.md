@@ -12,9 +12,9 @@ header-includes: |
   \fancyfoot[R]{Page \thepage}
 ---
 bgrayburn@gmail.com 443.995.5037 
-github: [bgrayburn](http://github.com/bgrayburn)
 
-homepage: [brianrayburn.tech](https://brianrayburn.tech)
+_github_: [bgrayburn](http://github.com/bgrayburn)
+_homepage_: [brianrayburn.tech](https://brianrayburn.tech)
 
 # Brian Rayburn 
 
@@ -29,10 +29,9 @@ homepage: [brianrayburn.tech](https://brianrayburn.tech)
 ### Founding Engineer : Life Lessons 
 *Feb 2023 - August 2023* 
 
-- Led design of base game abstractions that shifted lesson implementation from 6 months to as fast as a few hours and at most a few days 
+- Led design and development of base game abstractions that shifted lesson implementation from 6 months to as fast as a few hours and at most a few days 
 - Designed and implemented testing strategy for game client and backend server
-- Implemented base abstractions along other engineers 
-- Implemented game components in godot 
+- Implemented game components in Godot 
 - Designed and implemented a user server to manage authentication, authorization, and game session management in Python
 
 ### Software Engineer Manager : Ellevation Education 
@@ -47,16 +46,16 @@ homepage: [brianrayburn.tech](https://brianrayburn.tech)
 *January 2020 - February 2022* 
 
 - Technical Lead for project after 8 months 
+- Implemented analytics and software fixes to stabilize a flagship product under record usage
 - Prepared iterative technical project plans with risks and off-ramps
 - Developed toward those plans, programming in C#, JavaScript, and TypeScript 
 - Developed Terraform / Infrastructure code to deploy our software
-- Setup analytics systems to monitor our deployments and scale/adjust when appropriate
 - Team was responsible for maintaining legacy system through large-scale growth as well as building a new system to better operate at large-scale 
 
 ### Computer Scientist : New Sapience, Inc. 
 _January 2016 - October 2019_ 
 
-- Built multi-platform desktop editor for proprietary data files using Javascript, Electron, and React 
+- Built multi-platform desktop editor for proprietary data files using JavaScript, Electron, and React 
 - Built web chat interface for communication with chat engine
 - Used Docker and Python to deploy an English syntax parser
 - Designed a query language and built an engine for rapid exploration of large graph structures
@@ -67,20 +66,20 @@ _January 2016 - October 2019_
 ### Front End Engineer : emocha Mobile Health Inc. 
 _May 2015 - October 2015_ 
 
-- Built the web and mobile front end for a platform solution to medication adherence and linkage to care using Javascript and Meteor.js 
+- Built the web and mobile front end for a platform solution to medication adherence and linkage to care using JavaScript and Meteor.js 
 - Created server layers to store and pull data from internal APIs and shape data into a form expected by the front-end interfaces 
 - Implemented a video encryption and storage pipeline, connecting mobile devices through backend services to Amazon S3 
  
 ### Senior Software Engineer : First Mile Geo 
 _November 2014 - February 2015_ 
 
-- Designed and built interactive, responsive web visualizations using Javascript and D3.js 
+- Designed and built interactive, responsive web visualizations using JavaScript and D3.js 
 - Left due to unproductive work environment caused by lack of product direction 
  
 ### Lead Data Scientist : AHEAD Research Inc. 
 _July 2013 - October 2014_ 
 
-- Built analytics infrastructure to both aggregate and visualize signals from a variety of existing sources (Google Analytics, Heroku DB etc), and to collect our own data (StatsD, MongoDB) to provide insights on site usage, experiment results, and typical users in real-time dashboards with Javascript, Python, and Processing.js 
+- Built analytics infrastructure to both aggregate and visualize signals from a variety of existing sources (Google Analytics, Heroku DB etc), and to collect our own data (StatsD, MongoDB) to provide insights on site usage, experiment results, and typical users in real-time dashboards with JavaScript, Python, and Processing.js 
 - Designed and built a medication interaction and side effect checker using public data with Ruby on Rails 
 - Built various other features of Symcat.com including a profile completion module to incentivize customers to complete their profiles 
 - Added health data sets and ontologies to an internal knowledge graph 
@@ -129,7 +128,7 @@ _Graduated May 2012_
 - Program specialized in the product development process from user need identification through commercialization 
  
 ### B.A. Physics
-St. Mary's College of Maryland  
+St. Mary's College of Maryland 
 _Graduated May 2008_ 
 
 - Took a large number of computer science and math classes  
@@ -138,7 +137,7 @@ _Graduated May 2008_
  
 ### LED Costumes for Light City Festival 2017  
 
-- Designed and assisted construction of light up costumes that synchronized color with the scenes in the performance for the Fluid Movement, a community performance movement group in Baltimore, for their 2017 Light City perforamnce 
+- Designed and assisted construction of light up costumes that synchronized color with the scenes in the performance for the Fluid Movement, a community performance movement group in Baltimore, for their 2017 Light City performance
 - Designed and constructed Arduino based RGB LED controllers for each costume 
 - Provided performance with real-time technical support 
  
@@ -150,7 +149,7 @@ _Graduated May 2008_
 [code repository](http://humanwireio.github.io/eyeCandy) 
 
 - Created platform to enable large groups of people to control projected visualizations 
-- Written in Python, Javascript, and Processing 
+- Written in Python, JavaScript, and Processing 
  
 ## **Teaching** 
 
