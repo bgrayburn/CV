@@ -1,10 +1,10 @@
 ---
 geometry: margin=1in
 output: pdf_document
-#fontfamily: helvetica
 monofont: '"Courier New"'
-#toc: "true"
 header-includes: |
+  \usepackage{helvet}
+  \renewcommand{\familydefault}{\sfdefault}
   \usepackage{fancyhdr}
   \pagestyle{fancy}
   \fancyhf{}
@@ -33,21 +33,22 @@ homepage: [brianrayburn.tech](https://brianrayburn.tech)
 - Designed and implemented testing strategy for game client and backend server
 - Implemented base abstractions along other engineers 
 - Implemented game components in godot 
-- Designed and implemented a user server to manage authentication, authorization, and game session management 
+- Designed and implemented a user server to manage authentication, authorization, and game session management in Python
 
 ### Software Engineer Manager : Ellevation Education 
 *February 2022 -September 2022*
 
 - Continued role as project Technical Lead 
 - Managed 2 direct reports, a new hire, and a long-term employee 
-- Implemented a program for non-engineer employees to interview to become entry level engineers after demonstrating sufficient skills as well as providing support for gaining those skills. 
+- Implemented a program for non-engineer employees to interview to become entry level engineers after demonstrating sufficient skills as well as providing support for gaining those skills
 - Received leadership coaching from professional engineering leadership coach   
 
 ### Senior Software Engineer : Ellevation Education 
 *January 2020 - February 2022* 
 
-- Technical Lead for project after 8 months. 
+- Technical Lead for project after 8 months 
 - Prepare iterative technical project plans with risks and off-ramps
+- Developed toward those plans, programming in C#, JavaScript, and TypeScript 
 - Develop Terraform / Infrastructure code to deploy our software
 - Setup analytics systems to monitor our deployments and scale/adjust when appropriate
 - Team was responsible for maintaining legacy system through large-scale growth as well as building a new system to better operate at large-scale 
