@@ -47,9 +47,9 @@ homepage: [brianrayburn.tech](https://brianrayburn.tech)
 *January 2020 - February 2022* 
 
 - Technical Lead for project after 8 months 
-- Prepare iterative technical project plans with risks and off-ramps
+- Prepared iterative technical project plans with risks and off-ramps
 - Developed toward those plans, programming in C#, JavaScript, and TypeScript 
-- Develop Terraform / Infrastructure code to deploy our software
+- Developed Terraform / Infrastructure code to deploy our software
 - Setup analytics systems to monitor our deployments and scale/adjust when appropriate
 - Team was responsible for maintaining legacy system through large-scale growth as well as building a new system to better operate at large-scale 
 
