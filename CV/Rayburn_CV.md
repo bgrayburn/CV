@@ -24,7 +24,7 @@ _homepage_: [brianrayburn.tech](https://brianrayburn.tech)
 
 - Designing and developing prototypes to enable communication across worldviews
 - Researching philosophical and social psychological understanding of communication and language
-- Examining articial intelligence and knowledge graph tools to model relationships between worldviews
+- Examining artificial intelligence and knowledge graph tools to model relationships between worldviews
 
 ### Founding Engineer : Life Lessons 
 *Feb 2023 - August 2023* 
