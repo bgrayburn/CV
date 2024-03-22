@@ -14,7 +14,7 @@ header-includes: |
 bgrayburn@gmail.com 443.995.5037 
 
 _github_: [bgrayburn](http://github.com/bgrayburn)
-_homepage_: [brianrayburn.tech](https://brianrayburn.tech)
+_homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 
 # Brian Rayburn 
 
