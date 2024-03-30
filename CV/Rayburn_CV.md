@@ -11,12 +11,10 @@ header-includes: |
   \fancyhead[R]{Brian Rayburn - CV}
   \fancyfoot[R]{Page \thepage}
 ---
-bgrayburn@gmail.com 443.995.5037 
+# Brian Rayburn 
 
 _github_: [bgrayburn](http://github.com/bgrayburn)
 _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
-
-# Brian Rayburn 
 
 ## **Employment** 
 ### Independent Researcher
