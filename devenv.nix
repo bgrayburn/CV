@@ -12,6 +12,6 @@
   # languages.nix.enable = true;
 
   # https://devenv.sh/pre-commit-hooks/
-  # pre-commit.hooks.markdownlint.enable = true;
+  pre-commit.hooks.prettier.enable = true;
 
 }
