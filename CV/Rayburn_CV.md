@@ -54,7 +54,7 @@ _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 _January 2016 - October 2019_ 
 
 - Built multi-platform desktop editor for proprietary data files using JavaScript, Electron, and React 
-- Built web chat interface for communication with chat engine
+- Built web chat interface for communication with chat engine using TypeScript
 - Used Docker and Python to deploy an English syntax parser
 - Designed a query language and built an engine for rapid exploration of large graph structures
 - Built parsers for proprietary query language and data storage format
