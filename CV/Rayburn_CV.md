@@ -112,6 +112,13 @@ _June 2007 - June 2011_
 
 ## **Education**
 
+### Neural Networks and Deep Learning
+
+DeepLearning.AI
+_Completed January 2025_
+
+- Implemented vectorized shallow and deep neural networks in Python from scratch
+
 ### Complex Systems Science Intensive
 
 New England Complex Systems Institute
