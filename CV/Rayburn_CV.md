@@ -119,6 +119,15 @@ _Completed January 2025_
 
 - Implemented vectorized shallow and deep neural networks in Python from scratch
 
+### WAI0.1x: Introduction to Web Accessibility
+
+edX
+_Completed November 2024 earing a Verified Certificate_
+
+- Learned the many ways people with disabilities interact with technologies
+- Examined the WCAG 2.0 Guidelines for Accessibility
+- Walked through an Accessibility Audit exploring industry standard tools and practices
+
 ### Complex Systems Science Intensive
 
 New England Complex Systems Institute
