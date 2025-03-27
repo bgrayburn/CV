@@ -22,6 +22,13 @@ _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 
 ## **Employment**
 
+### Data Science (AI) : Abt Global
+
+_Feb 2025 - Current_
+
+- Lead a technical effort (3 technical workers) to design and build a proof-of-concept application to leverage AI to understand and quantify information in large amounts of narrative text
+- Automated the deployment and provisioning of infrastructure for a text to sql application for data analysis and visualization
+
 ### Independent Researcher
 
 _August 2023 - Current_
@@ -29,6 +36,7 @@ _August 2023 - Current_
 - Designing and developing prototypes to enable communication across worldviews
 - Researching philosophical and social psychological understanding of communication and language
 - Examining artificial intelligence and knowledge graph tools to model relationships between worldviews
+- Participated in an invitation only workshop, including presenting, at the Applied Social Media Lab at Harvard's Berkman Klein Center
 
 ### Founding Engineer : Life Lessons
 
@@ -115,17 +123,27 @@ _June 2007 - June 2011_
 
 ## **Education**
 
+### Structuring Machine Learning Projects
+
+DeepLearning.AI
+_Completed February 2025 earning a certificate_
+
+### Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
+
+DeepLearning.AI
+_Completed January 2025 earning a certificate_
+
 ### Neural Networks and Deep Learning
 
 DeepLearning.AI
-_Completed January 2025_
+_Completed January 2025 earning a certificate_
 
 - Implemented vectorized shallow and deep neural networks in Python from scratch
 
 ### WAI0.1x: Introduction to Web Accessibility
 
 edX
-_Completed November 2024 earing a Verified Certificate_
+_Completed November 2024 earning a Verified Certificate_
 
 - Learned the many ways people with disabilities interact with technologies
 - Examined the WCAG 2.0 Guidelines for Accessibility
