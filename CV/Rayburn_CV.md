@@ -14,7 +14,10 @@ header-includes: |
 
 # Brian Rayburn
 
+_email_ : [bgrayburn@protonmail.com](mailto:bgrayburn@protonmail.com)
+
 _github_: [bgrayburn](http://github.com/bgrayburn)
+
 _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 
 ## **Employment**
