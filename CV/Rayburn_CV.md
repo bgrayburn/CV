@@ -10,14 +10,15 @@ header-includes: |
   \fancyhf{}
   \fancyhead[R]{Brian Rayburn - CV}
   \fancyfoot[R]{Page \thepage}
+  \usepackage{titlesec}
+  \titlespacing*{\subsubsection}{0pt}{*1.5}{*0.75}
 ---
 
 # Brian Rayburn
 
-_email_ : [bgrayburn@protonmail.com](mailto:bgrayburn@protonmail.com)
+[bgrayburn@protonmail.com](mailto:bgrayburn@protonmail.com) 443.995.5037
 
 _github_: [bgrayburn](http://github.com/bgrayburn)
-
 _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 
 ## **Employment**
@@ -26,6 +27,7 @@ _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 
 _Feb 2025 - Current_
 
+- Managed and maintained a data pipeline and full-stack application for data collection from grantees supporting runaway and homeless children
 - Lead a technical effort (3 technical workers) to design and build a proof-of-concept application to leverage AI to understand and quantify information in large amounts of narrative text
 - Automated the deployment and provisioning of infrastructure for a text to sql application for data analysis and visualization
 
@@ -169,7 +171,7 @@ _Completed July 2020 earning a Certificate of Completion_
 Stanford University
 _Completed Fall 2013 earning a Statement of Accomplishment_
 
-- Learned about and constructed neural nets and other machine learning algorithms from sratch in Octave/Matlab
+- Learned about and constructed neural nets and other machine learning algorithms from scratch in Octave/Matlab
 
 ### M.S. Bioengineering Innovation and Design
 
@@ -211,6 +213,7 @@ _Graduated May 2008_
 
 ## **Speaking**
 
+- Public Social Media Workshop, Applied Social Media Lab at Harvard's Berkman Klein Institute, June 2024
 - Meteor.js, React & Dashboards, at CharmCityJS Meetup in Baltimore, MD, December, 2015
 - Panel member at Social Impact of Open Data, hosted by Center For Data Innovation in Washington, DC, July, 2014
 - Yale Unite for Sight Global Health Conference, BabyBeats Fetal Heart Rate Monitor, April 2012, New Haven, CT
