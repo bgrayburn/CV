@@ -11,7 +11,6 @@
   # https://devenv.sh/languages/
   # languages.nix.enable = true;
 
-  # https://devenv.sh/pre-commit-hooks/
-  pre-commit.hooks.prettier.enable = true;
+  git-hooks.hooks.prettier.enable = true;
 
 }
