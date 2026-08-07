@@ -16,16 +16,23 @@ header-includes: |
 
 # Brian Rayburn
 
-[bgrayburn@protonmail.com](mailto:bgrayburn@protonmail.com) 443.995.5037
+[contact@brianrayburn.tech](mailto:contact@brianrayburn.tech) 443.995.5037
 
 _github_: [bgrayburn](http://github.com/bgrayburn)
 _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 
 ## **Employment**
 
+### Sr. Staff Software Engineer (Contract) : Humane Intelligence LLC.
+
+_Oct 2025 - Nov 2025_
+
+- Architected a platform for AI evaluations on AWS
+- Implemented prototype platform for initial testing
+
 ### Data Science (AI) : Abt Global
 
-_Feb 2025 - Current_
+_Feb 2025 - Sep 2025_
 
 - Managed and maintained a data pipeline and full-stack application for data collection from grantees supporting runaway and homeless children
 - Lead a technical effort (3 technical workers) to design and build a proof-of-concept application to leverage AI to understand and quantify information in large amounts of narrative text
