@@ -23,7 +23,7 @@ _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
 
 ## **Employment**
 
-### Sr. Staff Software Engineer (Contract) : Humane Intelligence LLC.
+### Senior Staff Software Engineer (Contract) : Humane Intelligence LLC.
 
 _Oct 2025 - Nov 2025_
 
@@ -88,7 +88,7 @@ _January 2016 - October 2019_
 - Performed unit and integration tests of full-stack Electron app and web products
 - Utlized Typescript and Flow in various projects
 
-### Front End Engineer : emocha Mobile Health Inc.
+### Front End Engineer : emocha Mobile Health Inc. (now Scene Health)
 
 _May 2015 - October 2015_
 
