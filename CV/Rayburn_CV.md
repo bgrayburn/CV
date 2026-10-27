@@ -16,10 +16,15 @@ header-includes: |
 
 # Brian Rayburn
 
-[contact@brianrayburn.tech](mailto:contact@brianrayburn.tech) 443.995.5037
+Boston, MA | [contact@brianrayburn.tech](mailto:contact@brianrayburn.tech) | 443.995.5037
 
 _github_: [bgrayburn](http://github.com/bgrayburn)
 _homepage_: [https://brianrayburn.tech](https://brianrayburn.tech)
+
+## **Skills**
+
+- Technologies: Node.js, PostgreSQL, CouchDB
+- Methods: Agile methods, design thinking, domain-driven design
 
 ## **Employment**
 
@@ -42,9 +47,10 @@ _Feb 2025 - Sep 2025_
 
 _August 2023 - Current_
 
-- Designing and developing prototypes to enable communication across worldviews
+- Explored a concept for an application to help people communicate across worldviews through prototyping, extensive reading, and conversations with researchers and practitioners
 - Researching philosophical and social psychological understanding of communication and language
 - Examining artificial intelligence and knowledge graph tools to model relationships between worldviews
+- Developed Evolutionary Collective Moderation, a design pattern for democratic policy-setting in online chat communities, in which members collectively set and evolve rules that AI then enforces
 - Participated in an invitation only workshop, including presenting, at the Applied Social Media Lab at Harvard's Berkman Klein Center
 
 ### Founding Engineer : Life Lessons
